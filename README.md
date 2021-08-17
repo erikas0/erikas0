@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/erikas0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erikas0&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikas0&layout=compact&langs_count=7&theme=buefy"/>
+  <img hekight="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikas0&layout=compact&langs_count=7&theme=buefy"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="erika-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
